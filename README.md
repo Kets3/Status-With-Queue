@@ -1,6 +1,6 @@
 # Status-With-Queue
 
-You must chanege:
+You must change:
 Token
 Color
 Photo
