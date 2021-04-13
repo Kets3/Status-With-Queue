@@ -1,0 +1,9 @@
+{
+    "token": "token",
+    "color": "xrwma",
+    "thumbnailphoto": "photo_server",
+    "ketse": {
+        "ip": "here_ip_of_server",
+        "port": "here_port_of_server"
+    }
+}
